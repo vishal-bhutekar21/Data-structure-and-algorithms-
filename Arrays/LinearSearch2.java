@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class LinearSearch {
+public class LinearSearch2 {
 
     public static void main(String[] args) {
 

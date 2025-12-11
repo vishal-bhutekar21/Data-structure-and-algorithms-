@@ -11,7 +11,7 @@ public class creationArray {
 
     String sArr[]={"s","423q4","535","Vishal"};
 
-    System.out.println(Arrays.toString(sArr));a 
+    System.out.println(Arrays.toString(sArr));
         
     }
 
